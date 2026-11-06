@@ -1,0 +1,26 @@
+{
+  "author": "Shannz",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0"
+  },
+  "description": "Temp mail client for akunlama.com — check availability, list inbox, read messages.",
+  "engines": {
+    "node": ">=18"
+  },
+  "exports": {
+    ".": "./index.js"
+  },
+  "keywords": [
+    "temp-mail",
+    "akunlama",
+    "disposable-email",
+    "inbox",
+    "xtemp"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "name": "xtemp",
+  "type": "module",
+  "version": "1.0.0"
+}
